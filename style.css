@@ -1,0 +1,119 @@
+	#content-nav{
+		position:fixed;
+		right:0;
+		top:150px;
+	}
+	a.btn {
+	margin:3px 0;
+		display:block;
+	text-decoration:none;
+    background-color: #999999;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px 8px;
+    text-align: center;
+    border-radius: 0px;
+}
+.btn:hover {
+    text-decoration: none;
+    background-color: #000000;
+}
+	*{
+		font-family:"Lao Ui";
+	
+	}
+	.text-kanan{
+		text-align:right;
+	}
+	.text-tengah{
+		text-align:center;
+	}
+	table{
+		border-collapse:collapse;
+		width:100%;
+	}
+	table tr td {
+		
+		padding:5px 15px;
+	}
+	input{
+		width:50px;
+	}
+	.titik{
+		border-top:2px dotted #000;
+	}
+	.container{
+		width:970px;
+		border:1px solid #000;
+		  margin-right: auto;
+		margin-left: auto;
+	}
+	
+	body{background:#555;}
+	.atas-table{
+		background-color:#A8A4A4;
+		font-size:1em;
+		font-weight:bold;
+	}
+	.bawah-table{
+		background-color:#CECECE;
+		color:#111CF4;
+		font-weight:bold;
+	}
+	.aman{
+		
+		background-color:#CECECE;
+	}
+	#tabel-scroll{
+		max-width:830px;
+		overflow:auto;
+	}
+	.judul{
+		margin:30px 0 10px 0;
+		font-size:1.3em;
+		font-weight:bold;
+	}
+	
+	.header{
+		font-size: 2em;
+		font-weight:bold;
+		text-align:center;
+	}
+	
+.kertas {
+	background-color:#FFF;
+	
+	width:830px;
+	padding:20px 50px 50px 50px;
+	margin:20px auto;
+
+	-webkit-box-shadow:
+		1px 1px 0 rgba(0,0,0,0.100),
+		3px 3px 0 rgba(255,255,255,1.0),
+		4px 4px 0 rgba(0,0,0,0.125),
+		6px 6px 0 rgba(255,255,255,1.0),
+		7px 7px 0 rgba(0,0,0,0.150),
+		9px 9px 0 rgba(255,255,255,1.0),
+		10px 10px 0 rgba(0,0,0,0.175);
+
+	box-shadow:
+		1px 1px 0 rgba(0,0,0,0.100),
+		3px 3px 0 rgba(255,255,255,1.0),
+		4px 4px 0 rgba(0,0,0,0.125),
+		6px 6px 0 rgba(255,255,255,1.0),
+		7px 7px 0 rgba(0,0,0,0.150),
+		9px 9px 0 rgba(255,255,255,1.0),
+		10px 10px 0 rgba(0,0,0,0.175);
+
+}
+#bep{
+	width:100px;
+	font-family:"Lao Ui";
+	
+}
+
+#profit{
+	width:100px;
+	font-family:"Lao Ui";
+}
